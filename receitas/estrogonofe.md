@@ -1,4 +1,5 @@
-#Strogonoff de Frango :chicken
-**Negrito**
-(Receita)
-(Modo de Preparo)
+# Strogonoff de Frango :chicken
+
+**Receita**
+
+**Modo de Preparo**
